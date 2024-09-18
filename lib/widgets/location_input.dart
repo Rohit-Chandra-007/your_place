@@ -7,7 +7,7 @@ import 'package:http/http.dart' as http;
 import 'package:your_place/models/place.dart';
 import 'package:your_place/screens/map.dart';
 
-const googleMapApiKey = 'AIzaSyBZ-_Mfq2HRfNzWB6VvVBoLURDJKjN0YpQ';
+const googleMapApiKey = '';
 
 class LocationInput extends StatefulWidget {
   const LocationInput({super.key, required this.onSelectedLocation});
